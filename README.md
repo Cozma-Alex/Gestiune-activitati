@@ -1,4 +1,4 @@
-# Proiect-OOP_Gestiune-activitati
+# Proiect-CPP_Gestiune-activitati
 
 ## Introducere
 * Aplicație creată în C++ care gestionează o listă de activități. Activitate: titlu, descriere, tip, durata.
