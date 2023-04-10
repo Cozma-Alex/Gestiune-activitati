@@ -14,7 +14,11 @@
 
 
 *** 1 - Adăugare
+
 *** 2 - Tipărire
+
 *** 3 - Ștergere
+
 *** 4 - Modificare
+
 *** 0 - Ieșire din aplicație
