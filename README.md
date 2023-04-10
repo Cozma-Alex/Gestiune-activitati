@@ -11,6 +11,8 @@
 
 ## Utilizare
 * După rulare se va introduce comanda corespunzătoare funcționalității dorite:
+
+
 *** 1 - Adăugare
 *** 2 - Tipărire
 *** 3 - Ștergere
